@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, MyMusicPlayer!</string>
+    <string name="app_name">MyMusicPlayer</string>
+    <string name="playlist_str">Play List</string>
+    <string name="create_playlist_str">Create Play List</string>
+    <string name="play_str">Play</string>
+    <string name="pause_str">Pause</string>
+    <string name="stop_str">Stop</string>
+    <string name="nextSong_str">Next</string>
+    <string name="previousSong_str">Previous</string>
+    <string name="setPlayList_str">Set Play List</string>
+    <string name="save_playlist">Save playlist</string>
+</resources>
